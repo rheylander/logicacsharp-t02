@@ -1,0 +1,14 @@
+C:\Users\rheylander.srodrigue\source\repos\matematica\bin\Debug\net8.0\matematica.exe
+C:\Users\rheylander.srodrigue\source\repos\matematica\bin\Debug\net8.0\matematica.deps.json
+C:\Users\rheylander.srodrigue\source\repos\matematica\bin\Debug\net8.0\matematica.runtimeconfig.json
+C:\Users\rheylander.srodrigue\source\repos\matematica\bin\Debug\net8.0\matematica.dll
+C:\Users\rheylander.srodrigue\source\repos\matematica\bin\Debug\net8.0\matematica.pdb
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\matematica.AssemblyInfoInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\matematica.AssemblyInfo.cs
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\matematica.csproj.CoreCompileInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\matematica.dll
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\refint\matematica.dll
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\matematica.pdb
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\matematica.genruntimeconfig.cache
+C:\Users\rheylander.srodrigue\source\repos\matematica\obj\Debug\net8.0\ref\matematica.dll

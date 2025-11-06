@@ -1,0 +1,15 @@
+C:\Users\rheylander.srodrigue\source\repos\BOOL\bin\Debug\net8.0\BOOL.exe
+C:\Users\rheylander.srodrigue\source\repos\BOOL\bin\Debug\net8.0\BOOL.deps.json
+C:\Users\rheylander.srodrigue\source\repos\BOOL\bin\Debug\net8.0\BOOL.runtimeconfig.json
+C:\Users\rheylander.srodrigue\source\repos\BOOL\bin\Debug\net8.0\BOOL.dll
+C:\Users\rheylander.srodrigue\source\repos\BOOL\bin\Debug\net8.0\BOOL.pdb
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.AssemblyInfoInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.AssemblyInfo.cs
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.csproj.CoreCompileInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.sourcelink.json
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.dll
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\refint\BOOL.dll
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.pdb
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\BOOL.genruntimeconfig.cache
+C:\Users\rheylander.srodrigue\source\repos\BOOL\obj\Debug\net8.0\ref\BOOL.dll

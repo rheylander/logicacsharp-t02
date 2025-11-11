@@ -1,0 +1,15 @@
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.AssemblyInfoInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.AssemblyInfo.cs
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.csproj.CoreCompileInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.sourcelink.json
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\bin\Debug\net8.0\maratonadecsharpe.exe
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\bin\Debug\net8.0\maratonadecsharpe.deps.json
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\bin\Debug\net8.0\maratonadecsharpe.runtimeconfig.json
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\bin\Debug\net8.0\maratonadecsharpe.dll
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\bin\Debug\net8.0\maratonadecsharpe.pdb
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.dll
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\refint\maratonadecsharpe.dll
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.pdb
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\maratonadecsharpe.genruntimeconfig.cache
+C:\Users\rheylander.srodrigue\source\repos\maratonadecsharpe\obj\Debug\net8.0\ref\maratonadecsharpe.dll

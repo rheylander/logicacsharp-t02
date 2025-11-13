@@ -1,0 +1,15 @@
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.AssemblyInfoInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.AssemblyInfo.cs
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.csproj.CoreCompileInputs.cache
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.sourcelink.json
+C:\Users\rheylander.srodrigue\source\repos\LOOP\bin\Debug\net8.0\LOOP.exe
+C:\Users\rheylander.srodrigue\source\repos\LOOP\bin\Debug\net8.0\LOOP.deps.json
+C:\Users\rheylander.srodrigue\source\repos\LOOP\bin\Debug\net8.0\LOOP.runtimeconfig.json
+C:\Users\rheylander.srodrigue\source\repos\LOOP\bin\Debug\net8.0\LOOP.dll
+C:\Users\rheylander.srodrigue\source\repos\LOOP\bin\Debug\net8.0\LOOP.pdb
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.dll
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\refint\LOOP.dll
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.pdb
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\LOOP.genruntimeconfig.cache
+C:\Users\rheylander.srodrigue\source\repos\LOOP\obj\Debug\net8.0\ref\LOOP.dll

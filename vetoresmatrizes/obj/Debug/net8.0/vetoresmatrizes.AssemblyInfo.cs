@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LOOP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("vetoresmatrizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c4faa55f60dbd5b07b243ae7ab84318ada9879")]
-[assembly: System.Reflection.AssemblyProductAttribute("LOOP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LOOP")]
+[assembly: System.Reflection.AssemblyProductAttribute("vetoresmatrizes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("vetoresmatrizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

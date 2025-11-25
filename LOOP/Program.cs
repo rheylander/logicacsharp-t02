@@ -68,37 +68,50 @@ Console.WriteLine("\n");
 // loop foreach
 
 string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
-foreach (string i in cars)
-{
-    Console.WriteLine(i);
-}
+    foreach (string i in cars)
+    {
+        Console.WriteLine(i);
+    }
 
-Console.WriteLine("\n");
+Console.WriteLine("\n"); //pula uma linha
 
 string[] names = { "Ana", "Carlos", "João", "Maria" };
-foreach (string n in names)
-{
-    Console.WriteLine(n);
-}
+    foreach (string n in names)
+    {
+        Console.WriteLine(n);
+    }
 
-Console.WriteLine("\n");
+    Console.WriteLine("\n");
 
 //Uma lista de strings
 List<string> nomes = new List<string> { "Ana", "Carlos", "João", "Maria" };
 
 // Usando o foreach para percorrer a lista
-foreach (string nome in nomes)
-{
-    Console.WriteLine(nome); // Imprime cada nome exibindo na tela
-}
+    foreach (string nome in nomes)
+    {
+        Console.WriteLine(nome); // Imprime cada nome exibindo na tela
+    }
 
-Console.WriteLine("\n");
+    Console.WriteLine("\n");
 
 //um vetor de números inteiros
-int[] numeros = { 1, 2, 3, 4, 5 };
+    int[] numeros = { 1, 2, 3, 4, 5 };
 
 //usando o foreach para percorrer o vetor
-foreach (int numero in numeros)
+    foreach (int numero in numeros)
+    {
+        Console.WriteLine(numero); // Imprime cada número exibindo na tela
+    }
+
+
+// solicitando ao usuário a digitação
+    double preco, total = 0;
+
+do
 {
-    Console.WriteLine(numero); // Imprime cada número exibindo na tela
-}
+    Console.WriteLine("Digite o preço do produto (0 para finalizar):");
+    preco = Convert.ToDouble(Console.ReadLine());
+    total += preco;
+} while (preco != 0);
+
+Console.WriteLine($"\nTotal da compra: R$ {total:F2}");
